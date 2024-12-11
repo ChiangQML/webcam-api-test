@@ -1,0 +1,13 @@
+.webcam-btn{
+  position: absolute;
+  left: 52%;
+  transform: translateX(-50%) translateY(500%);
+  border-radius: 5px;
+  width: 200px;
+  height: 50px;
+}
+
+.webcam-btn.active {
+  background-color: green; /* Color when isOpen is true */
+  color:white;
+}
