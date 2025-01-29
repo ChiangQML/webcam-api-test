@@ -9,6 +9,6 @@ npm install
 npm start
 
 ### Saves Location
-it will automatically create photos and videos folders if you don't have one.
-webcam-api\backend\uploads\photos
-webcam-api\backend\uploads\videos
+It will automatically create uploads and other two folders after execute the code.
+webcam-api-test\backend\uploads\photos
+webcam-api-test\backend\uploads\videos
